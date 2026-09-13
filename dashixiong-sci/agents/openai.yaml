@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scientific Manuscript Drafting"
+  short_description: "Draft papers from verified methods, results, and citations"
+  default_prompt: "Use $dashixiong-sci to draft this manuscript from a claim-evidence map and preserve all evidence boundaries."

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Manuscript Diagnosis"
+  short_description: "Revise academic drafts without exceeding the evidence"
+  default_prompt: "Use $dashixiong-baozhuang to diagnose and revise this manuscript with a traceable claim-evidence audit."
+

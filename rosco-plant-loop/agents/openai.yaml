@@ -1,0 +1,6 @@
+interface:
+  display_name: "ROSCO Plant Loop"
+  short_description: "Use identical ROSCO control around two plant models"
+  default_prompt: "Use $rosco-plant-loop to connect the same ROSCO configuration to OpenFAST and the identified plant."
+policy:
+  allow_implicit_invocation: true

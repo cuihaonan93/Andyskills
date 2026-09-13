@@ -1,0 +1,6 @@
+interface:
+  display_name: "Wind-Turbine Identification"
+  short_description: "Cross-turbine plant identification and validation"
+  default_prompt: "Use $wind-turbine-identification to design a reproducible cross-turbine identification experiment."
+policy:
+  allow_implicit_invocation: true

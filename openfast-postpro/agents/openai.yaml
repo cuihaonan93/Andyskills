@@ -1,0 +1,6 @@
+interface:
+  display_name: "OpenFAST Model Evaluation"
+  short_description: "Open-loop, closed-loop, spectral, and load metrics"
+  default_prompt: "Use $openfast-postpro to evaluate this identified plant against paired OpenFAST cases."
+policy:
+  allow_implicit_invocation: true

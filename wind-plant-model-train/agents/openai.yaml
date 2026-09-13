@@ -1,0 +1,6 @@
+interface:
+  display_name: "Wind-Plant Model Training"
+  short_description: "CUDA training for cross-turbine dynamic plant models"
+  default_prompt: "Use $wind-plant-model-train to design and run a reproducible cross-turbine plant-model experiment."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "OpenFAST Dynamics Validation"
+  short_description: "Linearization, modes, and local dynamics comparison"
+  default_prompt: "Use $openfast-linearize to compare the identified plant with OpenFAST at matched operating points."
+policy:
+  allow_implicit_invocation: true

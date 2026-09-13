@@ -1,0 +1,6 @@
+interface:
+  display_name: "TurbSim + OpenFAST Runner"
+  short_description: "Reproducible TurbSim and OpenFAST 5.0 runs"
+  default_prompt: "Use $turbsim-openfast-run to verify the toolchain and prepare a reproducible simulation case."
+policy:
+  allow_implicit_invocation: true

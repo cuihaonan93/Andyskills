@@ -1,0 +1,6 @@
+interface:
+  display_name: "OpenFAST Data I/O"
+  short_description: "Unit-aware OpenFAST parsing and dataset manifests"
+  default_prompt: "Use $openfast-io to inspect these OpenFAST files and build a provenance-preserving dataset."
+policy:
+  allow_implicit_invocation: true

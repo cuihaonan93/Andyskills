@@ -1,0 +1,5 @@
+interface:
+  display_name: "Research Blueprint"
+  short_description: "Decompose reference papers into an original study blueprint"
+  default_prompt: "Use $dashixiong-mofang to decompose these papers and build an independent, source-traceable research blueprint."
+

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Research Opportunities"
+  short_description: "Turn literature gaps into falsifiable study candidates"
+  default_prompt: "Use $dashixiong-innovation to map the evidence and design falsifiable research opportunities."
+
